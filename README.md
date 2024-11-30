@@ -8,7 +8,7 @@ Os autores estão listados ao lado como contribuidores.
 
 ---
 
-## Description (English)
+## Description
 
 This repository contains various Python codes developed as part of the activities for the **Materials Science** course at **UFSC** in the year **2024**. The codes aim to assist in the analysis and visualization of experimental data, generating graphs and performing calculations as required by the course activities.
 
