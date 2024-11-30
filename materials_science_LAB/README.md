@@ -6,6 +6,6 @@ Este código em Python foi desenvolvido para ler e plotar informações de um ar
 
 ---
 
-## Description (English)
+## Description
 
 This Python code is designed to read and plot data from a CSV file containing information about tension, strain, and time. It generates a graph showing the evolution of strain over time, considering that when the specimen reaches 2% strain, the extensometer is removed to avoid damage. From that point on, strain is measured by the displacement of the upper crosshead of the machine.
